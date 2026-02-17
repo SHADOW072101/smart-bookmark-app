@@ -3,7 +3,7 @@
 A modern bookmark manager built with Next.js, Supabase, and Tailwind CSS. Features real-time synchronization across tabs, Google OAuth authentication, and a beautiful glass morphism UI.
 
 ## 📸 Screenshots
-
+![Screenshot 1](<Screenshot 2026-02-17 230150.png>) ![Screenshot 2](<Screenshot 2026-02-17 232007-1.png>)
 
 
 ## ✨ Features
