@@ -40,3 +40,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#debbging components
+/src/components/RealtimeDebug.tsx
+/src/components/RealtimeTester.tsx
+/src/components/RealtimeMonitor.tsx

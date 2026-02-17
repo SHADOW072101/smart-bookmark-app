@@ -124,6 +124,7 @@ export default async function Home({
         <div className="backdrop-blur-lg bg-white/10 rounded-2xl shadow-2xl border border-black/10 p-6 mb-8">
           <div className="flex justify-between items-center">
             <h1 className="text-3xl font-bold text-black opacity-85">Smart Bookmark App</h1>
+
             <div>
               <AuthButton />
             </div>
