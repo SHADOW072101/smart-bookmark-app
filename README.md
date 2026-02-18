@@ -39,7 +39,7 @@ A modern bookmark manager built with Next.js, Supabase, and Tailwind CSS. Featur
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/SHADOW072101/smart-bookmark-app.git>
+git clone https://github.com/SHADOW072101/smart-bookmark-app.git
 cd smart-bookmark
 ```
 
