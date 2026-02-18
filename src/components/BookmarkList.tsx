@@ -361,8 +361,6 @@
 import { useEffect, useState, useCallback } from 'react'
 import { createClient } from '@/lib/supabase/client'
 import RealtimeProvider from './RealtimeProvider'
-import RealtimeTester from './RealtimeTester'
-import RealtimeMonitor from './RealtimeMonitor'
 
 type Bookmark = {
   id: number
