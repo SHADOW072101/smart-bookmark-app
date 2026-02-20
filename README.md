@@ -3,7 +3,11 @@
 A modern bookmark manager built with Next.js, Supabase, and Tailwind CSS. Features real-time synchronization across tabs, Google OAuth authentication, and a beautiful glass morphism UI.
 
 ## 📸 Screenshots
-![Screenshot 1](<Screenshot 2026-02-17 230150.png>) ![Screenshot 2](<Screenshot 2026-02-17 232007-1.png>)
+<img width="1919" height="869" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1f073ad0-aca6-48be-8800-edc1494931cb" />
+<img width="1914" height="869" alt="Screenshot 2" src="https://github.com/user-attachments/assets/efc3ca36-7aa9-40f4-a795-f82faaf222f4" />
+
+
+
 
 
 ## ✨ Features
@@ -35,7 +39,7 @@ A modern bookmark manager built with Next.js, Supabase, and Tailwind CSS. Featur
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/SHADOW072101/smart-bookmark-app.git>
+git clone https://github.com/SHADOW072101/smart-bookmark-app.git
 cd smart-bookmark
 ```
 
